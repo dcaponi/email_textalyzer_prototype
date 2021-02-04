@@ -30,10 +30,13 @@
 ## Notes + FAQ
 
 Q1. Hey man, this sucks!
+
 A1. I know right? Try giving it more/better data. NLP is one of those areas thats hard to get right in a weekend of drinking and learning python
 
 Q2. You know there are libraries that do the pre-processing for you right?
+
 A2. Yep, but the point of this exercise was to challenge myself, and get more control over how I analyze the text data so I can try different things. Anyone can throw together a thing in 3 lines of python because a tutorial told you how, but I didn't want to be yet another one of those.
 
 Q3. Would this work for outlook?
+
 A4. Sure, if you write an adapter for it. I dont use outlook so I have no idea what the response format for their email api looks like, but I don't imagine it being too hard.
